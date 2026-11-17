@@ -1,4 +1,4 @@
-# A2P Seedance Skill
+# A2P Seedance · 八大玩法
 
 This public repository contains only the files required to run `lingguo-seedance-master`:
 
